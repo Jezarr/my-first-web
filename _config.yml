@@ -1,1 +1,9 @@
 theme: jekyll-theme-architect
+
+# Setup
+
+name:        Gemini Bad
+
+tagline:      For all your Gemini friends wait no Gemini should be your friend
+
+locale:       "en"
