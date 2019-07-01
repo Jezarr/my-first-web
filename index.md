@@ -31,6 +31,6 @@
 - Just
 - Don't
 - Care
-- In A Good Way
+- _In A Good Way_
 
 ![](http://mac.h-cdn.co/assets/15/53/1451582023-mcx-astro1-taurus.gif)
