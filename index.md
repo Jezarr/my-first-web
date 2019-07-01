@@ -27,7 +27,7 @@
 
 ![](https://media.women.com/images/images/000/080/872/large/gallery-1451587293-mcx-astro1-aquarius.gif?1490730521)
 
-- Tuarus's
+- Taurus's
 - Just
 - Don't
 - Care
